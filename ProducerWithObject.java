@@ -1,4 +1,4 @@
-package com.reactive.dss.kafkaProducer.producer;
+package com.reactive.kafkaProducer.producer;
 
 import org.apache.kafka.clients.CommonClientConfigs;
 import org.apache.kafka.clients.producer.ProducerConfig;
